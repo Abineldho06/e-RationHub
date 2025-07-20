@@ -1,11 +1,9 @@
 # e-Ration Hub - Smart Public Distribution System
 
 
+
 A web-based smart Public Distribution System developed using PHP and MySQL, aiming to modernize the food ration delivery system with digital ID verification, real-time stock management, and user-friendly interfaces.
 
-🌐 **Live Demo**  
-[![Live](https://img.shields.io/badge/LIVE-online-green)](https://your-live-link.com)  
-🔗 **Quick Access**: [Open e-Ration Hub](https://your-github-link.com)
 
 🧩 Project Overview
 
