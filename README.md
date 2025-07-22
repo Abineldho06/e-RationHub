@@ -1,6 +1,6 @@
 # e-Ration Hub - Smart Public Distribution System
 
-<img src="Assets/Templates/User/images/eration.png" alt="e-Ration Hub Logo" class="img-fluid" width="300">
+![e-Ration Logo](Assets/Templates/User/images/eration.png)
 
 A web-based smart Public Distribution System developed using PHP and MySQL, aiming to modernize the food ration delivery system with digital ID verification, real-time stock management, and user-friendly interfaces.
 
