@@ -1,7 +1,7 @@
 # e-Ration Hub - Smart Public Distribution System
 
 <p align="left">
-  <img src="Project/Assets/Templates/User/images/eration.png" alt="e-Ration Logo" width="200"/>
+  <img src="Project/Assets/Templates/User/images/logoR.png" alt="e-Ration Logo" width="200"/>
 </p>
 
 
