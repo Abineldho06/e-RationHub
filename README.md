@@ -4,6 +4,16 @@
   <img src="Project/Assets/Templates/User/images/LogoR.png" alt="e-Ration Logo" width="200"/>
 </p>
 
+## 🌐 Live Demo
+
+<p align="left">
+  <a href="https://e-rationhub.wuaze.com" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE-DEMO-green?style=for-the-badge&logo=google-chrome" alt="Live Demo Badge" />
+  </a>
+</p>
+
+🔗 **Quick Access:** [Open e-Ration Hub Website](https://e-rationhub.wuaze.com)
+
 A web-based smart Public Distribution System developed using PHP and MySQL, aiming to modernize the food ration delivery system with digital ID verification, real-time stock management, and user-friendly interfaces.
 
 
@@ -69,12 +79,6 @@ Project/
 │ ├── images/
 ├── index.php
 └── ...
-
----
-
-🌐 Live Demo
-
-Visit: [https://e-rationhub.wuaze.com](https://e-rationhub.wuaze.com)
 
 ---
 
